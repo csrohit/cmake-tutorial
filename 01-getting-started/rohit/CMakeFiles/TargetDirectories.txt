@@ -1,3 +1,0 @@
-/home/chin2/code/cmake/01/rohit/CMakeFiles/hello_world.dir
-/home/chin2/code/cmake/01/rohit/CMakeFiles/edit_cache.dir
-/home/chin2/code/cmake/01/rohit/CMakeFiles/rebuild_cache.dir
