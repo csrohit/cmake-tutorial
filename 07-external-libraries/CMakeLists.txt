@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 # define sources
 add_subdirectory(src)
-add_subdirectory(lib/**)
+add_subdirectory(lib/message)
