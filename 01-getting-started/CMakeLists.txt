@@ -1,6 +1,7 @@
 # a fatal error will e issued if version of cmake is lower thanthat is used
 cmake_minimum_required(VERSION 3.5 FATAL_ERROR)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 # declare the name of the project and supported languages
 project(hello_world LANGUAGES CXX)
 

@@ -5,7 +5,7 @@ target_sources(message
     PRIVATE
         ${CMAKE_CURRENT_LIST_DIR}/Message.cpp
     PUBLIC
-        ${CMAKE_CURRENT_LIST_DIR}/Message.hpp
+        ${CMAKE_CURRENT_LIST_DIR}/Message.h
 )
 
 # add this path to include directories for the target
